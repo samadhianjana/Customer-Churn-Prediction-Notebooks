@@ -1,0 +1,11 @@
+numpy # numerical operations
+pandas # data manipulation
+scikit-learn # machine learning library
+matplotlib # plotting library
+groq # Groq's machine learning library
+openai # OpenAI's API for language models
+seaborn # statistical data visualization
+dotenv # for loading environment variables
+imbalanced-learn
+xgboost
+catboost
